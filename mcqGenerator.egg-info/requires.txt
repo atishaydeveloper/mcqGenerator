@@ -1,10 +1,7 @@
 openai
 google
 langchain
-streamlit
-PyPDF2
 langchain_google_genai
-
-
-
--e .
+streamlit
+python-dotenv
+PyPDF2

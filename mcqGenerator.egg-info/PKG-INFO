@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: mcqGenerator
+Version: 0.1
+Author: Atishay Jain
+Author-email: atishayj288@@gmail.com
+Requires-Dist: openai
+Requires-Dist: google
+Requires-Dist: langchain
+Requires-Dist: langchain_google_genai
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
